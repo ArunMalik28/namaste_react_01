@@ -1,0 +1,14 @@
+{
+  "name": "part-01",
+  "version": "1.0.0",
+  "description": "learning & revising",
+  "main": "app2.js",
+  "scripts": {
+    "test": "jazz"
+  },
+  "author": "Arun Malik",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
